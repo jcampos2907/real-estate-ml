@@ -1,3 +1,7 @@
+# Copyright (c) 2025, Juan Ignacio Campos Ruiz
+# Licensed under the MIT License. See LICENSE file for more information.
+
+
 import re
 import asyncio
 import random
