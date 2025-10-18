@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 # Real Estate Analysis with Machine Learning
 
 This repository focuses on creating a machine learning project that analyzes real estate listings through several key steps:
@@ -16,7 +18,7 @@ This repository focuses on creating a machine learning project that analyzes rea
 
 ## Technologies
 
-- **Web Scraping**: BeautifulSoup, Scrapy, Selenium
+- **Web Scraping**: playwright
 - **Data Processing**: Pandas, NumPy
 - **Database**: PostgreSQL, MongoDB
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
@@ -25,4 +27,7 @@ This repository focuses on creating a machine learning project that analyzes rea
 
 This project is currently under development.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+## License
+
+This project is licensed under the **Apache License 2.0**.  
+See [LICENSE](LICENSE) for the full text and [NOTICE](NOTICE) for third-party attributions.
